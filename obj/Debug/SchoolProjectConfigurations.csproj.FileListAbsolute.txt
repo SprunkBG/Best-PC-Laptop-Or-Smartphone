@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\bin\Debug\SchoolProjectConfigurations.exe.config
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\bin\Debug\SchoolProjectConfigurations.exe
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\bin\Debug\SchoolProjectConfigurations.pdb
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\obj\Debug\SchoolProjectConfigurations.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\obj\Debug\SchoolProjectConfigurations.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\obj\Debug\SchoolProjectConfigurations.exe
+C:\Users\User\OneDrive\Работен плот\Visual Studio Files\SchoolProjectConfigurations\obj\Debug\SchoolProjectConfigurations.pdb

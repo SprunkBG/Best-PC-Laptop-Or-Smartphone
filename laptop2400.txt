@@ -1,0 +1,70 @@
+2217.00 лв
+Процесор: Чип Apple M1 
+
+8-ядрен процесор;
+
+7-ядрен графичен процесор; 
+
+16-ядрен Neural Engine.
+
+RAM Памет: 8GB единна памет.
+
+Дисково пространство: 256GB флаш драйв SSD.
+Линк към уебсайта: https://iabalka.eu/macbook-air-retina/macbook-air-13-s-apple-m1-chip-8c-cpu-7c-gpu-8gb-256gb-ssd-#/klaviatura-int_international
+
+2219.00 лв
+Apple M1 (3.2GHz, 4M)
+Apple M1
+8 GB LPDDR4X 4266 MHz
+256GB SSD
+13,3" (33.78cm) 2560x1600 IPS лъскав дисплейю
+Линк към уебсайта: https://ardes.bg/product/apple-macbook-air-13-2020-mgnd3ze-a-192059?utm_source=pazaruvaj.com&utm_medium=%D0%9B%D0%B0%D0%BF%D1%82%D0%BE%D0%BF%D0%B8
+
+1899.00 лв
+AMD Ryzen 5 4600H (3/4GHz, 8M)
+NVIDIA GTX 1650 Ti - 4 GB GDDR6
+8 GB DDR4 3200 MHz
+512GB M.2 NVMe SSD
+15,6" (39.62cm) 1920x1080 IPS матов дисплей
+144 Hz
+Линк към уебсайта: https://ardes.bg/product/acer-nitro-5-an515-44-r40c-nh-q9hex-00c-181701?utm_source=pazaruvaj.com&utm_medium=%D0%9B%D0%B0%D0%BF%D1%82%D0%BE%D0%BF%D0%B8
+
+1999.00 лв
+Процесор:		Четириядрен Intel Core i5-10210U (1.60 - 4.20 GHz, 6 MB cache) 
+Видео карта:		NVIDIA GeForce MX350 - 2 GB GDDR5
+Памет:		8 GB LPDDR3 2133 MHz
+Слотове за памет:		Без слотове за памет
+Твърд диск:		Без твърд диск
+SSD диск:		512 GB M.2 NVMe SSD 
+Дисплей:		14" (35.56cm) Full HD (1920x1080) IPS лъскав сензорен дисплей с LED подсветка 
+Цветова гама:		100% sRGB
+Линк към уебсайта: https://ardes.bg/product/asus-zenbook-14-ux434fqc-wb501t-90nb0rm3-m01020-182415?utm_source=pazaruvaj.com&utm_medium=%D0%9B%D0%B0%D0%BF%D1%82%D0%BE%D0%BF%D0%B8
+
+2054.72 лв
+Тип процесор: AMD Ryzen™ 7 4800H
+Капацитет на хард диска: 256 GB SSD
+Размер на дисплея: 15,6 "
+Унгарска клавиатура
+Линк към уебсайта: https://edigital.bg/laptopi/prenosim-kompyutr-lenovo-ideapad-legion5-15arh05-82b5002jhv-cheren-windows10-p807616?utm_source=arukereso.hu&utm_medium=price-comparison&utm_term=807616
+
+1802.00 лв
+Софтуер	No OS
+Процесор, серия	Intel Core i5
+Процесор	Intel Core i5-10300H 2.50 GHz, 8 MB cache
+Чипсет	Intel HM470
+Памет, GB	8GB 2666MHz (1x8GB)
+Памет, слотове	Max 64GB, 2 Slots
+Памет, тип	DDR4
+Твърд диск, тип	SSD
+Твърд диск, GB	512GB PCIe
+Линк към уебсайта: https://www.ioncomputers.bg/product/29565/laptop-msi-gf63-thin-10scxr-9s7-16r412-099.html
+
+1999.00 лв
+Intel Core i5-10300H (2.50/4.50 GHz, 8M)
+NVIDIA GTX 1660 Ti 6GB GDDR6
+8 GB DDR4 2666 MHz
+512GB M.2 NVMe SSD
+15,6" (39.62cm) 1920x1080 IPS матов дисплей
+144 Hz
+Линк към уебсайта: https://ardes.bg/product/msi-gf65-thin-10sdr-9s7-16w112-872-184642?utm_source=pazaruvaj.com&utm_medium=%D0%9B%D0%B0%D0%BF%D1%82%D0%BE%D0%BF%D0%B8
+
