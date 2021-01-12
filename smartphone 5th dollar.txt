@@ -1,0 +1,56 @@
+936.07 USD dollar
+Processor model
+Chipset 
+Qualcomm SM8250 Snapdragon 865 (7 nm+)
+CPU Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)
+GPU Adreno 650
+Color
+White
+Dimensions mm
+162.6 x 74.8 x 9 mm
+Gps
+To
+Weight (gr)
+208g
+OS
+Android 10.0; MIUI 11
+SIM card type
+Dual SIM (Nano-SIM, dual stand-by)
+
+686.29 USD dollar
+Processor model
+Chipset 
+Qualcomm SM8250 Snapdragon 865 (7 nm+)
+CPU Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)
+GPU Adreno 650
+Color
+Blue, grey, purple, white
+Dimensions mm
+163.3 x 75.4 x 8.9 mm
+Gps
+To
+Weight (gr)
+218g
+OS
+Android 10.0; MIUI 11
+SIM card type
+Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+961.04 USD dollar
+Processor model
+Chipset Qualcomm SDM855 Snapdragon 855+ (7 nm)
+Cpu
+Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)
+GPU Adreno 640 (700 MHz)
+Color
+White, black
+Dimensions mm
+157.2 x 74.6 x 8.5 mm
+Gps
+To
+Weight (gr)
+196g
+OS
+Android 10; MIUI 11
+SIM card type
+Dual SIM (Nano-SIM, dual stand-by)

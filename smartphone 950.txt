@@ -1,0 +1,53 @@
+573.42 лв
+Скорост на процесора: Octa Core (2x2,0 GHz Kryo 460 Gold + 6 x 1,7 GHz Kryo 460 Silver)
+Операционна система: Android 10.0
+Диагонал на дисплея (инч): 6,47 "
+
+630.00 лв
+Модел процесор
+Chipset	Mediatek Helio G90T (12nm)
+CPU	Octa-core (2x Cortex-A76 & 6x Cortex-A55)
+GPU	Mali-G76MC4
+Цвят
+Черен,зелен,бял
+Размери мм
+161.3 x 76.4 x 8.8 mm
+GPS
+Да
+Тегло (гр)
+199 гр.
+ОS
+Android 9.0 (Pie); MIUI 10
+Вид SIM карта
+Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+599.00 лв
+Модел процесор
+Chipset  
+Qualcomm SDM765 Snapdragon 765G (7 nm)
+CPU	Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)
+GPU	Adreno 620	
+Цвят
+Син,червен,лилав,бял
+Размери мм
+165.3 x 76.6 x 8.8 mm
+GPS
+Да
+Тегло (гр)
+208g
+ОS
+Android 10.0; MIUI 11
+Вид SIM карта
+Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+649.00 лв
+Процесорни ядра
+8 ядра
+Скорост на процесора
+2.4 GHz
+RAM 
+8 GB
+Вътрешна памет
+256 GB
+Слот за карта 
+Не

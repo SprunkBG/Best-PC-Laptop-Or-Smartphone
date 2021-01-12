@@ -14,7 +14,7 @@ namespace SchoolProjectConfigurations
             if (device == "PC" || device == "pc" || device == "Pc" || device == "pC")
             {
                 char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
-                UserSettings.SelectCurrency(currency);
+                UserSettings.CheckCurrencyPC(currency);
             }
             else if (
                 //all low
@@ -82,13 +82,14 @@ namespace SchoolProjectConfigurations
                 device == "lapTOP"
                 )
             {
-                UserDevice.Laptop();
+                char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
+                UserSettings.CheckCurrencyLaptop(currency);
             }
             else if (
                 //all low
-                device == device.ToLower() ||
+                device == "smartphone" ||
                 //ALL CAPITALS
-                device == device.ToUpper() ||
+                device == "SMARTPHONE" ||
                 //One Capital
                 device == "Smartphone" ||
                 device == "sMartphone" ||
@@ -313,20 +314,13 @@ namespace SchoolProjectConfigurations
                 //Capitals O, N
                 device == "smartphONE")
             {
-                UserDevice.Smartphone();
+                char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
+                UserSettings.CheckCurrencySmartphone(currency);
             }
-        }
-
-        public static void Smartphone()
-        {
-            double smartphoneFromBudget = Double.Parse(Interaction.InputBox("Your budget for smartphone: \n From: "));
-            double PCToBudget = Double.Parse(Interaction.InputBox("To: "));
-        }
-
-        public static void Laptop()
-        {
-            double laptopFromBudget = Double.Parse(Interaction.InputBox("Your budget for laptop: \n From: "));
-            double laptopToBudget = Double.Parse(Interaction.InputBox("To: "));
+            else
+            {
+                MessageBox.Show("Why?");
+            }
         }
 
     }

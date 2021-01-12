@@ -1,0 +1,54 @@
+17.98 euro
+Dual SIM
+Audio FM Radio 1; 3.5mm headphone jack
+Screen size 1.77 ''
+Screen Resolution 120 x 160
+Screen type QQVGA/TFT
+Memory size RAM:4 MB
+Battery 800 mAh
+Network band GSM 900/1800 (EU)
+OS Nokia Series 30+
+Dimensions 119 x 49.2 x 14.4 mm
+
+76.15 euro
+Display 5.3" Max Vision FWVGA+ (960 x 480) IPS
+Rear camera: 8 MP, f2.2, 1,12 um pixel size, LED flash; Front camera: 5 MP, selfie flash
+LTE FDD/TDD LTE/WCDMA/GSM Networks
+Dual Nano SIM SIM card
+Qualcomm Snapdragon 425 1.4 GHz 4-core processor
+RAM 1GB
+Internal memory 16GB
+
+102.17 euro
+Android 8.0 Oreo (Go edition) operating system
+Memory
+Internal memory 16 GB
+RAM памет 1 GB RAM
+MicroSD slot type (up to 512 GB)
+Display
+Resolution (pixels) 540 x 960
+Display diagonal (inch) 5 inches
+
+56.22 euro
+- Chipset: Mediatek MT6580M (28 nm)
+- GPU: Mali-400MP2
+- Speed: HSPA 21.1 / 5.76 Mbps
+- GPRS: Yes
+- Over: Yes
+- Wi-Fi: Wi-Fi 802.11 b/g/n, Wi-Fi Direct, access point
+- GPS: Yes, with A-GPS
+- NFC: No
+- USB: microUSB 2.0
+- Bluetooth: 4.0, A2DP
+
+9.71 euro
+Display Diagonal (Inch)
+1.8 inches
+Memory
+Memory
+32 MB ROM/32 MB RAM
+Network
+Operating frequency
+900 MHz MHz, 1800 MHz MHz
+Data transfer
+2 g

@@ -1,0 +1,56 @@
+1499.00 лв
+Модел процесор
+Chipset 
+Qualcomm SM8250 Snapdragon 865 (7 nm+)
+CPU	Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)
+GPU	Adreno 650
+Цвят
+Бял
+Размери мм
+162.6 x 74.8 x 9 mm
+GPS
+Да
+Тегло (гр)
+208g
+ОS
+Android 10.0; MIUI 11
+Вид SIM карта
+Dual SIM (Nano-SIM, dual stand-by)
+
+1099.00 лв
+Модел процесор
+Chipset 
+Qualcomm SM8250 Snapdragon 865 (7 nm+)
+CPU	Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)
+GPU	Adreno 650
+Цвят
+Син,сив, лилав, бял
+Размери мм
+163.3 x 75.4 x 8.9 mm
+GPS
+Да
+Тегло (гр)
+218g
+ОS
+Android 10.0; MIUI 11
+Вид SIM карта
+Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+1539.00 лв
+Модел процесор
+Chipset	 Qualcomm SDM855 Snapdragon 855+ (7 nm)
+CPU
+Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)
+GPU	 Adreno 640 (700 MHz)
+Цвят
+Бял,черен
+Размери мм
+157.2 x 74.6 x 8.5 mm
+GPS
+Да
+Тегло (гр)
+196g
+ОS
+Android 10; MIUI 11
+Вид SIM карта
+Dual SIM (Nano-SIM, dual stand-by)

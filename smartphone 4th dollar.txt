@@ -1,0 +1,65 @@
+230.43 USD dollar
+Processor model
+Snapdragon 625 octa core 2.0GHz
+Color
+Black
+Dimensions mm
+149.33.x 71.68 x 75mm
+Gps
+To
+Weight (gr)
+178g
+OS
+Android One (Android 8.1,Support OTA Update)
+SIM card type
+Dual nano SIM
+
+242.92 USD dollar
+Processor model
+Snapdragon 660 Octa Core
+Color
+Black, blue
+Dimensions mm
+158.7 x 75.4x 7.3 mm
+Gps
+To
+Weight (gr)
+168
+OS
+MIUI 9
+SIM card type
+Dual Nano SIM
+
+227.93 USD dollar
+Processor model
+Snapdragon 636 octa core 1.8GHz
+Color
+Black, blue
+Dimensions mm
+157.9 x 76.4 x 8.2 mm
+Gps
+To
+Weight (gr)
+181g
+OS
+MIUI 10 (Base on Android 8.10)
+SIM card type
+Dual nano SIM
+
+292.88 USD dollar
+Processor model
+CPU – Octa-Core 2.0GHz Cortex-A53 Clock Speed
+Chipset – MediaTek MT6771T-P70, 64-bit Processor
+GPU – ARM Mali-G72 MP2 700MHz GPU
+Color
+Black, orange, green
+Dimensions mm
+171.6 x 85.5 x 18.7 mm
+Gps
+To
+Weight (gr)
+372g
+OS
+Android 10 OS
+SIM card type 
+Hybrid Dual SIM (Nano-SIM + Nano-SIM + microSD), Dual Standby

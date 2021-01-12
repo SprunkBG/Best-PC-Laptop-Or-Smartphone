@@ -40,17 +40,12 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LaptopConfigurations.cs" />
+    <Compile Include="SmartphoneConfigurations.cs" />
     <Compile Include="UserSettings.cs" />
     <Compile Include="PCConfigurations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="UserDevice.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="1400-1900.txt" />
-    <Content Include="1900-2800.txt" />
-    <Content Include="2800+.txt" />
-    <Content Include="990-1400.txt" />
-    <Content Include="до990лв.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

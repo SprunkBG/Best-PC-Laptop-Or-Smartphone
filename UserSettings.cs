@@ -14,7 +14,7 @@ namespace SchoolProjectConfigurations
             MessageBox.Show($"Welcome {user}! This program will find the best device for your budget.");
         }
 
-        public static void SelectCurrency(char currency)
+        public static void CheckCurrencyPC(char currency)
         {
             if (currency == 'l')
             {
@@ -30,6 +30,44 @@ namespace SchoolProjectConfigurations
             {
                 double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
                 PCConfigurations.BudgetUSDDollar(budget);
+            }
+        }
+
+        public static void CheckCurrencyLaptop(char currency)
+        {
+            if (currency == 'l')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetLev(budget);
+            }
+            else if (currency == 'e')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetEuro(budget);
+            }
+            else if (currency == 'd')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetUSDDollar(budget);
+            }
+        }
+
+        public static void CheckCurrencySmartphone(char currency)
+        {
+            if (currency == 'l')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetLev(budget);
+            }
+            else if (currency == 'e')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetEuro(budget);
+            }
+            else if (currency == 'd')
+            {
+                double budget = Double.Parse(Interaction.InputBox("How much is your budget?"));
+                LaptopConfigurations.BudgetUSDDollar(budget);
             }
         }
     }

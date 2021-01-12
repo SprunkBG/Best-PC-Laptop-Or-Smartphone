@@ -1,0 +1,65 @@
+369.00 лв
+Модел процесор
+Snapdragon 625 octa core 2.0GHz
+Цвят
+Черен
+Размери мм
+149.33.x 71.68 x 75mm
+GPS
+Да
+Тегло (гр)
+178g
+ОS
+Android One (Android 8.1,Support OTA Update)
+Вид SIM карта
+Dual nano SIM
+
+389.00 лв
+Модел процесор
+Snapdragon 660 Octa Core
+Цвят
+Черен,син
+Размери мм
+158.7 x 75.4x 7.3 mm
+GPS
+Да
+Тегло (гр)
+168
+ОS
+MIUI 9
+Вид SIM карта
+Dual Nano SIM
+
+365.00 лв
+Модел процесор
+Snapdragon 636 octa core 1.8GHz
+Цвят
+Черен,син
+Размери мм
+157.9 x 76.4 x 8.2 mm
+GPS
+Да
+Тегло (гр)
+181g
+ОS
+MIUI 10 (Base on Android 8.10)
+Вид SIM карта
+Dual nano SIM
+
+469.00 лв
+Модел процесор
+CPU – Octa-Core 2.0GHz Cortex-A53 Clock Speed
+Chipset – MediaTek MT6771T-P70, 64-bit Processor
+GPU – ARM Mali-G72 MP2 700MHz GPU
+Цвят
+Черен,оранжев,зелен
+Размери мм
+171.6 x 85.5 x 18.7 mm
+GPS
+Да
+Тегло (гр)
+372g
+ОS
+Android 10 OS
+Вид SIM карта 
+Hybrid Dual SIM (Nano-SIM + Nano-SIM + microSD), Dual Standby
