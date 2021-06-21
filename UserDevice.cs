@@ -13,6 +13,7 @@ namespace SchoolProjectConfigurations
         {
             if (device == "PC" || device == "pc" || device == "Pc" || device == "pC")
             {
+                MessageBox.Show("ATTENTION!!! ONLY NOW YOU CAN GET A HDMI CABLE ON A SUPER LOW PRICE!!!!!! NOT 2lv, NOT 5lv, BUT ONLY 10lv!!! YOU GET THE CABEL NOT TO THE PRICE OF 1, NOT 2, BUT THE PRICE OF 5 HMDI CABLES YOU GET 1!!!");
                 char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
                 UserSettings.CheckCurrencyPC(currency);
             }
@@ -82,6 +83,7 @@ namespace SchoolProjectConfigurations
                 device == "lapTOP"
                 )
             {
+                MessageBox.Show("ATTENTION!!! ONLY NOW YOU CAN GET A INTERNET FLASH DRIVE ON A SUPER LOW PRICE!!!!!! NOT 10lv, NOT 15lv, BUT ONLY 30lv!!! YOU GET THE FLASH DRIVE NOT TO THE PRICE OF 1, NOT 2, BUT THE PRICE OF 5 INTERNET FLASH DRIVES YOU GET 1!!!");
                 char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
                 UserSettings.CheckCurrencyLaptop(currency);
             }
@@ -314,6 +316,7 @@ namespace SchoolProjectConfigurations
                 //Capitals O, N
                 device == "smartphONE")
             {
+                MessageBox.Show("ATTENTION!!! ONLY NOW YOU CAN GET A CASE ON A SUPER LOW PRICE!!!!!! NOT 2lv, NOT 5lv, BUT ONLY 15lv!!! YOU GET THE CASE NOT TO THE PRICE OF 1, NOT 2, BUT THE PRICE OF 5 PHONE CASES YOU GET 1!!!");
                 char currency = Char.Parse(Interaction.InputBox("Enter currency you want to work with (lev - l), (euro - e), (USD dollars - d)"));
                 UserSettings.CheckCurrencySmartphone(currency);
             }

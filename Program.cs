@@ -20,10 +20,16 @@ namespace SchoolProjectConfigurations
             UserDevice.ChooseDevice(device);
         }
 
+        public static void EndAdvertisement()
+        {
+            MessageBox.Show("YOU WANT A PREMIUM ON THIS PROGRAM FOR MORE ADS??? \n NOW AND ONLY NOW YOU HAVE THE OPTION TO GET A PREMIUM ONLY FOR 99.99lv!!! HURRY UP BECAUSE I NEED MONEY!!!");
+        }
+
         static void Main(string[] args)
         {
             Program.Username();
             Program.Device();
+            Program.EndAdvertisement();
         }
     }
 }
